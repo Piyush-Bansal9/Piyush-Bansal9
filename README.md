@@ -2,8 +2,8 @@
 
 I'm a passionate **Full-Stack Developer** who loves building scalable web applications and solving complex problems.
   
-# 🌱 I’m currently learning Machine Learning and NextJS
-# 💞️ I’m looking to collaborate on innovative MERN and AI-ML projects
+##  🌱 I’m currently learning Machine Learning and NextJS
+##  💞️ I’m looking to collaborate on innovative MERN and AI-ML projects
 
 ## 🚀 Tech Stack
 - **Frontend:** React, Tailwind CSS
