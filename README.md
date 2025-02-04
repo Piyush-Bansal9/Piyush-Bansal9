@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
   
 ## 📫 How to Reach Me
 - **Email:** piyushbansal130p@gmail.com
-- **LinkedIn:** [linkedin.com/in/y](https://linkedin.com/in/piyush-bansal-673833298/)
+- **LinkedIn:** [PiyushBansal](https://linkedin.com/in/piyush-bansal-673833298/)
 
 <!---
 Piyush-Bansal9/Piyush-Bansal9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
